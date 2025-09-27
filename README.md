@@ -1,4 +1,4 @@
-# Rewind - AI Video Upscaler 🚀
+# Rewind - AI Video Upscaler 
 
 **Transform Your Video Memories for Free!**
 
