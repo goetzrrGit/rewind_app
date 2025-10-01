@@ -24,7 +24,7 @@ See the power of Rewind in action:
 
 **Tom and Jerry: A Swiss Tricks** - *240p upscaled to 1080p*
 
-[YouTube Video Demo](https://www.youtube.com/embed/5LvRa84SkUc)
+[YouTube Video Demo](https://youtu.be/-PxaT9W25iQ?si=4WW4p9auBFsB1-Nj)
 
 ---
 
@@ -32,7 +32,7 @@ See the power of Rewind in action:
 
 Rewind is a cross-platform application supporting **Windows, macOS, and Linux**.
 
-**➡️ [Download Rewind Now](#)** *(Replace the `#` with your actual download link)*
+➡️ [Download Rewind Now](https://rewind-app.xyz)
 
 ---
 
