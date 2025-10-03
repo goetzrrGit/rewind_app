@@ -2,7 +2,7 @@
 
 **Transform Your Video Memories for Free!**
 
-Rewind is a free and powerful, desktop application that uses **AI** to transform your low-resolution videos into high-quality videos. The project started to upscale my parents home videos so they will look good on a 4k TV.
+Rewind is a free and powerful desktop application that uses **AI** to transform your low-resolution videos into high-quality videos. The project started to upscale my parents home videos so they will look good on a 4k TV.
 
 ---
 
@@ -20,17 +20,15 @@ Rewind is a free and powerful, desktop application that uses **AI** to transform
 
 ## 🎥 See the Transformation
 
-See the power of Rewind in action:
-
 **Tom and Jerry: A Swiss Tricks** - *240p upscaled to 1080p*
 
-[YouTube Video Demo](https://m.youtube.com/watch?v=UV4e40Upkmc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UV4e40Upkmc?si=O_Fw9hwTBeGQjjFy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ## 💻 Download and Get Started
 
-Rewind is a cross-platform application supporting **Windows, macOS (comming soon), and Linux**.
+Rewind is a free cross-platform application supporting **Windows, macOS (comming soon), and Linux**.
 
 ➡️ [Download Rewind Now](https://rewind-app.xyz)
 
