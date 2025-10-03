@@ -24,7 +24,7 @@ See the power of Rewind in action:
 
 **Tom and Jerry: A Swiss Tricks** - *240p upscaled to 1080p*
 
-[YouTube Video Demo](https://youtu.be/-PxaT9W25iQ?si=4WW4p9auBFsB1-Nj)
+[YouTube Video Demo](https://m.youtube.com/watch?v=UV4e40Upkmc)
 
 ---
 
