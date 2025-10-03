@@ -1,4 +1,4 @@
-ï# Rewind - A Free AI Video Upscaler 
+# Rewind - A Free AI Video Upscaler 
 
 **Transform Your Video Memories for Free!**
 
