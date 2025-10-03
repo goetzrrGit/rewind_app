@@ -52,4 +52,7 @@ To ensure the best performance and compatibility, please note the following:
 If you have any questions, run into bugs, or just want to show your support, you can reach out:
 
 * **Email:** `rewind-support@gmail.com`
-* **Donate:** Your generosity allows for dedicated time to add new features and fix bugs. [**Donate Link**](#)
+* **Donate:** Your generosity allows for dedicated time to add new features and fix bugs.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rewind.app)
+  
