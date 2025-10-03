@@ -2,7 +2,7 @@
 
 **Transform Your Video Memories for Free!**
 
-Rewind is a free and powerful desktop application that uses **AI** to transform your low-resolution videos into high-quality videos. The project started to upscale my parents home videos so they will look good on a 4k TV.
+Rewind is a free and powerful desktop application that uses **AI** to transform your low-resolution videos into high-quality videos. The project started as a desire to upscale my parents home videos so they will look good on a 4k TV. I want to give others the opportunity to preserve their family memories.
 
 ![Main Application Screenshot](main_app.png)
 
