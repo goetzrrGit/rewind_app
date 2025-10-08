@@ -33,7 +33,7 @@ Rewind is a free and powerful desktop application that uses **AI** to transform 
 
 Rewind is a free cross-platform application supporting **Windows, macOS (comming soon), and Linux**.
 
-➡️ [Download Rewind Now](https://rewind-app.xyz)
+➡️ [Download Rewind Now](https://github.com/goetzrrGit/rewind_app/releases/latest)
 
 ---
 
